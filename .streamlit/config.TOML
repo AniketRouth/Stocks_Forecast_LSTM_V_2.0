@@ -1,0 +1,13 @@
+[theme]
+
+primaryColor = "666a86"
+
+# Background color for the main container.
+backgroundColor = "#333333"
+secondaryBackgroundColor = "#465C7D"
+
+
+# Font color for the page.
+textColor = "#FFFFFF"
+
+font = "sans serif"
