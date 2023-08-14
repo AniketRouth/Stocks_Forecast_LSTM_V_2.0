@@ -1,3 +1,5 @@
+import os
+os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3' 
 import streamlit as st
 import plotly.graph_objs as go
 import datetime as dt
